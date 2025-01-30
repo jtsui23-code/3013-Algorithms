@@ -2,4 +2,4 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  0  | link 0      | description 0          |
+|  0  | [03-A03](https://github.com/jtsui23-code/3013-Algorithms/tree/main/Assignments/03-A03)      | Implemented remove method for binary search tree.          |
