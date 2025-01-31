@@ -7,7 +7,7 @@ Implemented delete method for removing nodes in a binary search tree.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [JackBST.cpp](https://github.com/jtsui23-code/3013-Algorithms/blob/main/Assignments/03-A03/JackBST.cpp)        | This runs the program for the BST.      |
-|   2   | [main.exe](https://github.com/jtsui23-code/3013-Algorithms/blob/main/Assignments/03-A03/main)          | This is the compiled program for the BST.                       |
+|   2   | [JackBST.exe](https://github.com/jtsui23-code/3013-Algorithms/blob/main/Assignments/03-A03/main)          | This is the compiled program for the BST.                       |
 
 
 
@@ -19,5 +19,5 @@ Implemented delete method for removing nodes in a binary search tree.
 
   
 ### Example:
-  - g++ -o [executable's name] [script's name].cpp
-  - ./[executable's name
+  - g++ [script's name].cpp -o [executable name]
+  - ./[executable's name]
