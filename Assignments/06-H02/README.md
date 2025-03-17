@@ -15,3 +15,9 @@
 - Quadratic Probing uses quadratic function to determine next slot.
   Pros: Reduces clustering and better performance compared to linear probing.
   Cons: More complex to implement
+
+- Chaining is a collision resolution that can handle more values than table slots because of the use of link list in each slot.
+- Chaining has a worst case of O(n).
+- Linear probing has a worst case of O(n).
+- Quadratic probing has a worst case of O(n)
+- Double Hashing has a worst case of O(n).
