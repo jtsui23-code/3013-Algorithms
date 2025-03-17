@@ -1,4 +1,4 @@
-# (05-H01) Hashing Homework - Strategies and Collision Resolution
+# (05-H02) Hashing Homework - Strategies and Collision Resolution
 
 ## Part A - Conceptual Questions:
 ### 1. Define Hashing and Collision Resolution)
