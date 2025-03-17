@@ -38,4 +38,10 @@
 - Hash Function: h(k) = k mod 10
   ![Chaining](https://github.com/user-attachments/assets/bff6e548-2ca3-488f-908a-251870f4a4c4)
 
+### Exercise 2: Closed Hashing (Open Addressing) - Linear Probing:
+- Keys: 5,22,17,18,35,101,16,0, 8
+- Table size: 10
+- Hash Function: h(k) = k mod 10
+
+
 
