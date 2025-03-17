@@ -42,6 +42,8 @@
 - Keys: 5,22,17,18,35,101,16,0, 8
 - Table size: 10
 - Hash Function: h(k) = k mod 10
+![linear probing](https://github.com/user-attachments/assets/9f5eb126-cb2a-46c3-9a29-1162e0cdd12f)
+
 
 
 
