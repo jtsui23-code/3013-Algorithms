@@ -22,3 +22,11 @@
 - Linear probing has a worst case of O(n).
 - Quadratic probing has a worst case of O(n)
 - Double Hashing has a worst case of O(n).
+
+### 3. Impact of Hash Table Size:
+- Larger table sizes reduce likelihood of collision.
+- Smaller talbe size is memory efficient but increases probablity of collision.
+- If the hash function produces values that share common factors with the table size, certain slots may never be used.
+- Some hash functions use power of 2 so a hash table size that is a power of 2 will result in certain bits in the hash table to be ignored.
+- A hash table with a round number will have many factors which leads to poor distribution and cause more collision.
+- Prime numbers are the best values for table sizes because they distribute the values more evenly.
