@@ -36,13 +36,25 @@
 - Keys: 5,22,17,18,35,101,16,0, 8
 - Table size: 10
 - Hash Function: h(k) = k mod 10
+  
   ![Chaining](https://github.com/user-attachments/assets/bff6e548-2ca3-488f-908a-251870f4a4c4)
 
 ### Exercise 2: Closed Hashing (Open Addressing) - Linear Probing:
 - Keys: 5,22,17,18,35,101,16,0, 8
 - Table size: 10
 - Hash Function: h(k) = k mod 10
+  
 ![linear probing](https://github.com/user-attachments/assets/9f5eb126-cb2a-46c3-9a29-1162e0cdd12f)
+
+### Exercise 3: Impact of Poor Table Sizes using chaining:
+- Keys: 5, 10, 15, 20, 25, 30, 35, 40
+- Table size 10 and Table size of 11
+- Hash Function: h(k) = k mod 10 and h(k) = k mod 11
+  
+![Poor Table Size](https://github.com/user-attachments/assets/2a4bf1d0-9565-4b77-989b-d61d456f5357)
+
+
+
 
 
 
