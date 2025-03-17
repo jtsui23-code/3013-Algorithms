@@ -33,7 +33,7 @@
 
 ## Part B: Simulation and Diagram Exercises:
 ### Exercise 1: Open Hashing (Separate Chaining)
-Keys: 5,22,17,18,35,101,16,0, 8
-Table size: 10
-Hash Function: h(k) = k mod 10
+- Keys: 5,22,17,18,35,101,16,0, 8
+- Table size: 10
+- Hash Function: h(k) = k mod 10
 
