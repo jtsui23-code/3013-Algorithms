@@ -17,6 +17,7 @@
   Cons: More complex to implement
 
 - Chaining is a collision resolution that can handle more values than table slots because of the use of link list in each slot.
+  The link list can grow to accommodate for the collision due to there being more values than table slots. 
 - Chaining has a worst case of O(n).
 - Linear probing has a worst case of O(n).
 - Quadratic probing has a worst case of O(n)
