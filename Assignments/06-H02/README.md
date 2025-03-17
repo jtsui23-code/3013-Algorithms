@@ -1,1 +1,1 @@
-### Hashing Homework - Strategies and Collision Resolution
+# Hashing Homework - Strategies and Collision Resolution
