@@ -30,3 +30,6 @@
 - Some hash functions use power of 2 so a hash table size that is a power of 2 will result in certain bits in the hash table to be ignored.
 - A hash table with a round number will have many factors which leads to poor distribution and cause more collision.
 - Prime numbers are the best values for table sizes because they distribute the values more evenly.
+
+## Part B: Simulation and Diagram Exercises:
+
