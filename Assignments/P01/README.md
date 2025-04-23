@@ -1,7 +1,6 @@
 # Dinic's Algorithm – Presentation README
 
-## 🎯 Purpose
-This README serves as the backbone of your 10–15 minute presentation on **Dinic’s Algorithm**, a powerful maximum flow algorithm in network graphs. It outlines slide content, key concepts, quiz questions, and resources.
+
 
 ---
 
@@ -74,24 +73,8 @@ This README serves as the backbone of your 10–15 minute presentation on **Dini
 
 ---
 
-## 📄 Handout Suggestions
-- Slide summary
-- Key terms cheat sheet
-- Simple walkthrough of an example graph (step-by-step)
-- Code snippet with comments
-- Use case illustrations
 
----
-
-## ✅ Deliverables Checklist
-- [x] README (this document)
-- [ ] Slide deck (optional)
-- [ ] Handout (recommended)
-- [x] Quiz questions
-
----
 
 ## ⚡️ Citation
-If referencing textbooks or online resources (e.g., GeeksforGeeks, cp-algorithms.com), cite them appropriately in footnotes or slide notes.
 
 
