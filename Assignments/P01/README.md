@@ -9,26 +9,26 @@
 ## Test Question:
 
 What type of problem is Dinic's algorithm designed to solve?
- A. Sorting data
- B. Finding the shortest path
- C. Solving flow networks
- D. Detecting cycles in graphs
+- A. Sorting data
+- B. Finding the shortest path
+- C. Solving flow networks
+- D. Detecting cycles in graphs
 
 Answer: C
 
 How does the time complexity of Dinic’s algorithm scale in the general case with respect to a graph with V vertices and E edges?
- A. O(V+E)
- B. O(V^2)
- C. (VE^2)
- D. (V^2E)
+- A. O(V+E)
+- B. O(V^2)
+- C. (VE^2)
+- D. (V^2E)
 
 Answer: D
 
 Question: What is the first step Dinic’s algorithm performs in each phase?
- A. Depth-first search (DFS)
- B. Sort all the edges
- C. Build a level graph using breadth-first search (BFS)
- D. Remove cycles from the graph
+- A. Depth-first search (DFS)
+- B. Sort all the edges
+- C. Build a level graph using breadth-first search (BFS)
+- D. Remove cycles from the graph
 
 Answer: C
 
