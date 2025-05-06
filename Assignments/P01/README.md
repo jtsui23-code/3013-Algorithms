@@ -1,4 +1,4 @@
-# Dinic's Algorithm – Presentation README
+# Dinic's Algorithm with Zach Barrentine – Presentation README
 
 
 
