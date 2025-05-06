@@ -6,7 +6,7 @@
 
 - Link: https://docs.google.com/presentation/d/1Vyw5ANiPuFRstLEDQUKbjJPx5P7_KvIwW_gLu21AC24/edit
   
-## Test Question:
+## 🖌️ Test Question:
 
 What type of problem is Dinic's algorithm designed to solve?
 - A. Sorting data
@@ -73,38 +73,7 @@ Answer: C
 
 ---
 
-## 🖌️ Quiz Questions
-
-### Multiple Choice (3):
-1. What is the main innovation in Dinic’s algorithm?
-   - A. Randomized paths
-   - B. Greedy choices
-   - C. Blocking flow via DFS **(correct)**
-   - D. Capacity scaling
-
-2. Dinic's algorithm is especially efficient on graphs with:
-   - A. Cycles only
-   - B. Negative weights
-   - C. Unit capacities **(correct)**
-   - D. Trees only
-
-3. What is the worst-case time complexity of Dinic’s algorithm on general graphs?
-   - A. O(VE²)
-   - B. O(EV²) **(correct)**
-   - C. O(V + E)
-   - D. O(V log V)
-
-### Fill-in-the-Blank (2):
-1. Dinic's algorithm constructs a **____ graph** using BFS to define levels of nodes.  
-   **Answer:** level
-
-2. A **____ flow** is a flow where no more augmenting paths can be found in the level graph.  
-   **Answer:** blocking
-
----
 
 
-
-## ⚡️ Citation
 
 
