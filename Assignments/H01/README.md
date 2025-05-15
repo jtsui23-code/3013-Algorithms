@@ -1,4 +1,4 @@
-## 05-H01
+## H01
 
 ### Description:
 This is the homework for practicing AVL Tree Rotations.
