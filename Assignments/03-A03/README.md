@@ -1,4 +1,4 @@
-## 03-A03 - BST - Delete
+## A03 - BST - Delete
 ### Jack Tsui
 ### Description:
 Implemented delete method for removing nodes in a binary search tree.
